@@ -1,4 +1,4 @@
-# MEGR 2157 – Design Portfolio
+# Stephen Bodnar MEGR 2156 – Sophomore Design Portfolio
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
