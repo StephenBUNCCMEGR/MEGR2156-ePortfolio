@@ -1,6 +1,6 @@
 # A1 – Patent Research
 ## Objective
-![Description of image](CRC Logo.jpg)
+![CRC Logo](CRC Logo.jpg)
 
 ## Analyze
 
